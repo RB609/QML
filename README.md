@@ -8,7 +8,7 @@ We have also used cirq (https://github.com/quantumlib/Cirq), a framework for sim
 ## Project status
 As of now, we have
 * Trained and tested qubit-encoding based classifiers using tensorflow-quantum (based on: https://arxiv.org/abs/2003.02989)
-* Trained quantum generative models using PSO to generate n-qubit GHZ states with 99% fidelity.
+* Trained quantum generative models using PSO to generate n-qubit GHZ states with 99% fidelity. (https://www.nature.com/articles/s41534-019-0157-8.pdf?proof=trueIn%EF%BB%BF)
 * Trained a classifer on an N-level Quantum System on standard dataset like CIFAR-10 and MNIST.  (https://arxiv.org/pdf/1908.08385.pdf)
 
 #### We are currently working on Data Compression and denoising of GHZ states using Quantum Autoencoders
